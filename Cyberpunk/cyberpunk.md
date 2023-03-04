@@ -20,7 +20,7 @@ Todas as classes iniciam no nível 1, com:
 - Suas características de classe e raça
 - 10 de mana
 - 1d100x100 yen
-- 2 pontos de habilidade
+- 2 pontos de atributo
 - Uma Habilidade de sua classe
 - Treinamento em uma Perícia de Classe
 - Até duas armas não-especiais
@@ -30,7 +30,7 @@ Todas as classes iniciam no nível 1, com:
 A cada nível adicional, o personagem recebe:
 
 - +1d6 de mana
-- +1 ponto de habilidade
+- +1 ponto de atributo
 - +1 Habilidade de classe (em níveis ímpares)
 - +1 Perícia treinada qualquer (em níveis pares)
 - Vida bônus baseada em CON\*nível
@@ -178,7 +178,7 @@ faz ele errar o próximo ataque dele, funciona uma vez por inimigo, ação rápi
 
 - **Psicologia:** Com um teste de Vontade de DT15, faz um aliado ter um
 
-bônus de +5 de ataque no próximo turno, ação rápida.
+bônus de +5 de ataque (caso crítico, também no dano) no próximo turno, ação rápida.
 
 - **Sorte programada:** Seus ataques funcionam em um ciclo de 6, com o
 
@@ -239,7 +239,7 @@ A cada prótese depois da segunda, sofre 5 de dano elétrico adicional, o jogado
 - **Perna foguete:** +2 de Atletismo e +2 de Acrobacia adicional.
 - **Olhos -** +1 em Pontaria, +1 em Investigação. +3 de dano base em à distância (dobra em críticos)
 - **Lentes de contato:** visão noturna e visão de calor.
-- **Scanner:** Você consegue ver qualquer sessão da ficha de um alvo que você quiser.
+- **Scanner:** Você consegue ver qualquer sessão da ficha de um alvo que você quiser. Ação rápida, uma vez por alvo.
 - **Garganta -** +1 em Enganação, +1 em Atuação.
 - **Granada de Som:** Stuna (permite resistência) todos em um raio de 8 quadrados de você por um turno e causa 1d4 de dano.
 - **Drive de Som:** Imita diversos sons.
@@ -460,7 +460,7 @@ Armas 2-em-1 que usam Luta/Pontaria
 - Neutralizado: Impossibilitado de usar o Aspecto Elemental.
 - **Perícias**
 
-O primeiro treino em uma perícia te dá +2, os treinos seguintes te dão +1. Os testes funcionam da seguinte forma: Por exemplo, para um teste de Pontaria com Destreza, você joga 1+DES d20s e soma o seu valor de Pontaria ao resultado do dado mais alto. Quando o teste não especifica qual Habilidade é usada, se utiliza a habilidade padrão da Perícia, visível na ficha. Em testes empatados a vitória é do defensor. DT: Dificuldade de Teste. Em caso de desvantagens que se acumulam em uma quantidade de dados negativa, utilize a quantidade de dados negativos e pegue o pior valor dentre eles (ainda somando o bônus da perícia)
+O primeiro treino em uma perícia te dá +2, os treinos seguintes te dão +1. Os testes funcionam da seguinte forma: Por exemplo, para um teste de Pontaria com Destreza, você joga 1+DES d20s e soma o seu valor de Pontaria ao resultado do dado mais alto. Quando o teste não especifica qual Atributo é usado, se utiliza o atributo padrão da Perícia, visível na ficha. Em testes empatados a vitória é do defensor. DT: Dificuldade de Teste. Em caso de desvantagens que se acumulam em uma quantidade de dados negativa, utilize a quantidade de dados negativos e pegue o pior valor dentre eles (ainda somando o bônus da perícia)
 
 - **Acrobacia:** Manobras, escalada.
 - **Adestramento:** Apaziguar animais ou máquinas selvagens.
