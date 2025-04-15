@@ -8,6 +8,7 @@
 
 ● **Explosive:** (Elemental) Attacks against the AD of all creatures within a 2 Space radius Sphere by standard. If the weapon has the Reload Property, the Sphere radius increases to 3 Spaces. Any additional effects or damage bonuses besides Heavy and so on hits can only apply to one of the targets.
 
+
 **Properties:**
 
 **(-1) Short-Ranged:** Attacks with this weapon at Long Range do 0 base damage. Can’t be taken with the Long-Ranged Property.
@@ -20,9 +21,11 @@
 
 **(1) Stabilizer:** After the second turn with the weapon in hand without moving or taking damage, you gain \+2 on the attack roll.
 
+
 - ### **Special Weapons**
 
 Special Weapons have the Ammo and Multi-Faceted properties by default, switching between Melee and Ranged Weapons. Additionally, they have 2 more Property Points and can have both Melee and Ranged Weapon properties.
+
 
 - ### **Items**
 
@@ -37,6 +40,7 @@ Special Weapons have the Ammo and Multi-Faceted properties by default, switching
 ● Cybertrip: Drug (high contrast vision), receives and deals \-1 damage. 10 minutes duration.
 
 ● Re-lax: Drug (hallucinogenic), \+6 on all saves. \-4 on all checks. 10 minutes duration.
+
 
 - ### **Mechborn Ancestry**
 
@@ -68,6 +72,7 @@ This can be taken as a third ancestry.
 
 **(3) Strong Plating:** You gain **\+1** AD and **\+1** PDR.
 
+
 - ### **Talents**
 
 ❖ **Fortress**  
@@ -77,12 +82,14 @@ This can be taken as a third ancestry.
 
 ➔ **Last Breath:** Once per Long Rest, when you get to Death’s Door, you can automatically activate your **Second Wind** for free.
 
+
 ❖ **Havoc**  
 *Requirements: Rage, Level 3\.*
 
 ➔ **Combo Breaker:** If an enemy has hit their last two attacks, you deal **\+2** damage to them on your next attack.
 
 ➔ **No Escape:** During your **Rage**, when you score a Critical Hit, the target is effectively **Grappled** until the end of your next turn.
+
 
 ❖ **Sage**  
 *Requirements: Commander’s Call, Commanding Aura, Level 3\.*
@@ -91,12 +98,14 @@ This can be taken as a third ancestry.
 
 ➔ **Press the Advantage:** When you or an ally within your **Commanding Aura** scores a Critical Hit, you can immediately take one of your **Commanding Aura** actions for free.
 
+
 ❖ **Ghost**   
 *Requirements: Cheap Shot, Level 3\.*
 
 ➔ **Assassin:** Deal **\+2** damage against **Surprised** creatures.
 
 ➔ **Cheap Trick:** When activating **Cheap Shot** you can take the **Disarm Action** for free as part of the attack.
+
 
 ❖ **Jeager**  
 *Requirements: Hunter’s Strike, Level 3\.*
@@ -105,12 +114,14 @@ This can be taken as a third ancestry.
 
 ➔ **Right Weapon for the Kill:** You deal **\+2** damage if the target is Vulnerable to that type of damage.
 
+
 ❖ **Perturbed**  
 *Requirements: Monk Stances, Level 3\.*
 
 ➔ **Multiple Personality**: You can have **2** different **Stances** active at the same time, but can only change them out of combat. They can’t both give you **\+1** damage on any attack at the same time.
 
 ➔ **Hectic**: You gain **2** Spaces of Movement for this turn if you have been targeted by two or more attacks since your last turn.
+
 
 ❖ **Tech-blade**  
 *Requirements: Bound Weapon, Level 3\.*
@@ -119,12 +130,14 @@ This can be taken as a third ancestry.
 
 ➔ **Pulling Attack:** You can use the **Grappling Hook** Mechborn trait on a creature after you hit it with your **Bound Weapon** by spending **1 SP** or **1 MP**.
 
+
 ❖ **Living Legend**  
 *Requirements: Bardic Performance, Level 3\.*
 
 ➔ **A Like Supreme:** Upon **Changing Performances**, you can spend **1 MP** to keep the previous effect until the start of your next turn.
 
 ➔ **Never Fade Away:** Your performance doesn’t end early if you become **Incapacitated** or die.
+
 
 ❖ **Purger of Machines**  
 *Requirements: Cleric Order, Level 3\.*
@@ -133,6 +146,7 @@ This can be taken as a third ancestry.
 
 ➔ **Domain Expansion:** You gain access to another **Divine Domain** you don’t already have.
 
+
 ❖ **Metallic Avatar**  
 *Requirements: Wild Form, Level 3\.*
 
@@ -140,12 +154,14 @@ This can be taken as a third ancestry.
 
 ➔ **Partial Form:** You get access to a Partial Wild Form, which grants you a Natural Weapon and 2 Trait Points that can be spent the same way as for your Wild Forms, while keeping all your basic features. This form can be activated without spending AP. This lasts 1 minute.
 
+
 ❖ **Overly Chaotic**  
 *Requirements: Innate Power, Level 3\.*
 
 ➔ **Chaos Control:** Once per Long Rest, after casting a spell, you can decide to roll a d20 on the Wild Magic Table. The effect lasts until the end of your next turn, unless stated otherwise. You regain the ability to use this benefit when you roll for Initiative.
 
 ➔ **Chaotic Break:** When you use your **Innate Power** to reduce the cost of a Spell, that reduction doesn’t count for your Mana Spend Limit. 
+
 
 ❖ **Herald of Machines**  
 *Requirements: Pact Boon, Level 3\.*
@@ -158,12 +174,14 @@ This can be taken as a third ancestry.
 
 **Pact Familiar:** Your **Pact Familiar** can have traits from the Mechborn Ancestry and gain \+2 Trait Points.
 
+
 ❖ **Mind Expansion**  
 *Requirements: Arcane Sigil, Level 3\.*
 
 ➔ **Expanded Sigil:** When creating your **Arcane Sigil**, you can spend **\+1 MP** to choose an additional Spell School or Spell Tag for it to affect.
 
 ➔ **Following Sigil:** After you move you can also move your **Arcane Sigil** to your current space without spending AP.
+
 
 ❖ **Elemental Aspect**  
 *Spellcasting Talent*
@@ -173,6 +191,7 @@ This can be taken as a third ancestry.
 When you choose this Talent, you can choose to forgo your Might Proficient Bonus HP in favor of it giving you Bonus MP instead.
 
 Choose an Awoken Element between **Fire**, **Void** or **Lightning**. You learn one spell from the chosen element list and everytime you learn a new spell it can be from that list too.
+
 
 - ### **Fire** 
 
@@ -194,6 +213,7 @@ You create a Fiery Sword that occupies one of your free hands and can shoot fire
 
 **Freed:** (5 MP) The spell doesn’t need **Concentration** anymore.
 
+
 **Solar Blast**  
 Destruction
 
@@ -210,6 +230,7 @@ You throw a malleable ball of fire. Make a **Spell Check** against the **AD** of
 
 **Damage:** (2 MP) \+1 damage.
 
+
 **Inferno**  
 Destruction
 
@@ -224,8 +245,10 @@ You create a wall of fire. Make a **Spell Check** against the **AD** of targets 
 **Enhancements**  
 **Damage:** (2 MP) \+1 damage.
 
+
 **Misty Step \+ Special Enhancement**  
 **Phoenix Step:** (1MP) Creatures adjacent to the space you teleport to, make a **Physical Save** against your **Save DC. Failure:** They are **Blinded** until the end of your next turn.
+
 
 - ### **Void**
 
@@ -245,6 +268,7 @@ You create a Void Shield that occupies one of your free hands and can intercept 
 
 **Freed:** (5 MP) The spell doesn’t need **Concentration** anymore.
 
+
 **Null Blast**  
 Destruction
 
@@ -263,6 +287,7 @@ You throw a extremely dense projectile. Make a **Spell Check** against the **AD*
 
 **Damage:** (2 MP) \+1 damage.
 
+
 **Shadow Realm**  
 Astromancy
 
@@ -277,8 +302,10 @@ Shift the planes around you. Choose a creature in range to make a **Physical Sav
 **Enhancements**  
 **Longer Duel:** (1 MP) The spell lasts for 1 more round.
 
+
 **Catapult \+ Special Enhancement**  
 **Weightless:** (2 MP) Increase the maximum weight of the object by 5 pounds.
+
 
 - ### **Lightning**
 
@@ -300,6 +327,7 @@ You create a Crackling Staff that occupies one of your free hands and shimmers w
 
 **Freed:** (5 MP) The spell doesn’t need **Concentration** anymore.
 
+
 **Electromagnetic Blast**  
 Destruction
 
@@ -316,6 +344,7 @@ You throw a extremely dense projectile. Make a **Spell Check** against the **AD*
 
 **Damage:** (2 MP) \+1 damage.
 
+
 **Magnetic Pull**  
 Destruction
 
@@ -329,6 +358,7 @@ Choose two enemies holding weapons within range. They make a **Physical Save** a
 
 **Enhancements**  
 **Range:** (1 MP) You increase the range by 5 Spaces.
+
 
 **Lightning Blade \+ Special Enhancement**  
 **Chain:** (1 AP) Choose 1 additional target within 2 Spaces of the original target. Compare your Attack Check against the new target’s PD. Hit: The additional is also affected by the booming energy. You can use this Enhancement multiple times, choosing an additional target within 2 Spaces of the previously chosen target.
