@@ -75,7 +75,7 @@ This can be taken as a third ancestry.
 
 ➔ **Found Strength:** While **Bloodied**, you have Resistance (1) to all damage and deal **\+1** damage with your first attack each turn.
 
-	➔ **Last Breath:** Once per Long Rest, when you get to Death’s Door, you can automatically activate your **Second Wind** for free.
+➔ **Last Breath:** Once per Long Rest, when you get to Death’s Door, you can automatically activate your **Second Wind** for free.
 
 ❖ **Havoc**  
 *Requirements: Rage, Level 3\.*
@@ -87,7 +87,7 @@ This can be taken as a third ancestry.
 ❖ **Sage**  
 *Requirements: Commander’s Call, Commanding Aura, Level 3\.*
 
-	➔ **Better Targeting:** When you use **Commander's Call Attack**, the attack is a Critical Hit on 19 or 20\.
+➔ **Better Targeting:** When you use **Commander's Call Attack**, the attack is a Critical Hit on 19 or 20\.
 
 ➔ **Press the Advantage:** When you or an ally within your **Commanding Aura** scores a Critical Hit, you can immediately take one of your **Commanding Aura** actions for free.
 
@@ -108,49 +108,49 @@ This can be taken as a third ancestry.
 ❖ **Perturbed**  
 *Requirements: Monk Stances, Level 3\.*
 
-	➔ **Multiple Personality**: You can have **2** different **Stances** active at the same time, but can only change them out of combat. They can’t both give you **\+1** damage on any attack at the same time.
+➔ **Multiple Personality**: You can have **2** different **Stances** active at the same time, but can only change them out of combat. They can’t both give you **\+1** damage on any attack at the same time.
 
 ➔ **Hectic**: You gain **2** Spaces of Movement for this turn if you have been targeted by two or more attacks since your last turn.
 
 ❖ **Tech-blade**  
 *Requirements: Bound Weapon, Level 3\.*
 
-	➔ **Masterwork:** Your **Bound Weapon** gain \+1 fitting Property of your choice, that Property can change anytime you bound to a weapon.
+➔ **Masterwork:** Your **Bound Weapon** gain \+1 fitting Property of your choice, that Property can change anytime you bound to a weapon.
 
-	➔ **Pulling Attack:** You can use the **Grappling Hook** Mechborn trait on a creature after you hit it with your **Bound Weapon** by spending **1 SP** or **1 MP**.
+➔ **Pulling Attack:** You can use the **Grappling Hook** Mechborn trait on a creature after you hit it with your **Bound Weapon** by spending **1 SP** or **1 MP**.
 
 ❖ **Living Legend**  
 *Requirements: Bardic Performance, Level 3\.*
 
-	➔ **A Like Supreme:** Upon **Changing Performances**, you can spend **1 MP** to keep the previous effect until the start of your next turn.
+➔ **A Like Supreme:** Upon **Changing Performances**, you can spend **1 MP** to keep the previous effect until the start of your next turn.
 
-	➔ **Never Fade Away:** Your performance doesn’t end early if you become **Incapacitated** or die.
+➔ **Never Fade Away:** Your performance doesn’t end early if you become **Incapacitated** or die.
 
 ❖ **Purger of Machines**  
 *Requirements: Cleric Order, Level 3\.*
 
-	➔ **Reject Technology:** Enemy Constructs and Mechborns within 10 Spaces of you are Vulnerable (1) to your **Divine Damage**.
+➔ **Reject Technology:** Enemy Constructs and Mechborns within 10 Spaces of you are Vulnerable (1) to your **Divine Damage**.
 
-	➔ **Domain Expansion:** You gain access to another **Divine Domain** you don’t already have.
+➔ **Domain Expansion:** You gain access to another **Divine Domain** you don’t already have.
 
 ❖ **Metallic Avatar**  
 *Requirements: Wild Form, Level 3\.*
 
-	➔ **Concrete Jungle:** When you use **Wild Form**, you can spend Trait Points on the Mechborn Ancestry. If you do, that Wild Form is from the Construct creature type instead of Beast.
+➔ **Concrete Jungle:** When you use **Wild Form**, you can spend Trait Points on the Mechborn Ancestry. If you do, that Wild Form is from the Construct creature type instead of Beast.
 
-	➔ **Partial Form:** You get access to a Partial Wild Form, which grants you a Natural Weapon and 2 Trait Points that can be spent the same way as for your Wild Forms, while keeping all your basic features. This form can be activated without spending AP. This lasts 1 minute.
+➔ **Partial Form:** You get access to a Partial Wild Form, which grants you a Natural Weapon and 2 Trait Points that can be spent the same way as for your Wild Forms, while keeping all your basic features. This form can be activated without spending AP. This lasts 1 minute.
 
 ❖ **Overly Chaotic**  
 *Requirements: Innate Power, Level 3\.*
 
-	➔ **Chaos Control:** Once per Long Rest, after casting a spell, you can decide to roll a d20 on the Wild Magic Table. The effect lasts until the end of your next turn, unless stated otherwise. You regain the ability to use this benefit when you roll for Initiative.
+➔ **Chaos Control:** Once per Long Rest, after casting a spell, you can decide to roll a d20 on the Wild Magic Table. The effect lasts until the end of your next turn, unless stated otherwise. You regain the ability to use this benefit when you roll for Initiative.
 
-	➔ **Chaotic Break:** When you use your **Innate Power** to reduce the cost of a Spell, that reduction doesn’t count for your Mana Spend Limit. 
+➔ **Chaotic Break:** When you use your **Innate Power** to reduce the cost of a Spell, that reduction doesn’t count for your Mana Spend Limit. 
 
 ❖ **Herald of Machines**  
 *Requirements: Pact Boon, Level 3\.*
 
-	➔ **Embrace Technology:** You gain the following benefits depending on your chosen **Pact Boon**.
+➔ **Embrace Technology:** You gain the following benefits depending on your chosen **Pact Boon**.
 
  **Pact Weapon & Cantrip:** When you score a Critical Hit with your **Pact Weapon** or **Pact Cantrip**, the target is **Intimidated** by you until the end of your next turn. 
 
@@ -161,9 +161,9 @@ This can be taken as a third ancestry.
 ❖ **Mind Expansion**  
 *Requirements: Arcane Sigil, Level 3\.*
 
-	➔ **Expanded Sigil:** When creating your **Arcane Sigil**, you can spend **\+1 MP** to choose an additional Spell School or Spell Tag for it to affect.
+➔ **Expanded Sigil:** When creating your **Arcane Sigil**, you can spend **\+1 MP** to choose an additional Spell School or Spell Tag for it to affect.
 
-	➔ **Following Sigil:** After you move you can also move your **Arcane Sigil** to your current space without spending AP.
+➔ **Following Sigil:** After you move you can also move your **Arcane Sigil** to your current space without spending AP.
 
 ❖ **Elemental Aspect**  
 *Spellcasting Talent*
