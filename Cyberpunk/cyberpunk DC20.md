@@ -62,6 +62,8 @@ This can be taken as a third ancestry.
 
 **(1) Combat Ready:** You can't be **Surprised**.
 
+**(1) Speed Charger:** You have ADV on Saves against being put to Sleep and during a Long Rest, you can spend both 4-hour periods doing Light Activity, without the need to sleep.
+
 **(2) Overclock:** You learn **1** Maneuver. Once per Long Rest, when you perform a Maneuver or Technique, you can reduce the SP cost of it by **1**. 
 
 **(2) Firewall:** You have Resistance (Half) to Psychic damage and ADV on Saves against being **Charmed**.
